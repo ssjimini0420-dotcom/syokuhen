@@ -11,13 +11,46 @@
             "id": "e2040e819b9a1e64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "最終まとめ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "最終まとめ"
+            }
+          },
+          {
+            "id": "b06f5c232407aa1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260618.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260618"
+            }
+          },
+          {
+            "id": "cd0a3d0b85097537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "デジタル技術の変化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "デジタル技術の変化"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,8 +223,11 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "e2040e819b9a1e64",
+  "active": "f8c21f547adbe368",
   "lastOpenFiles": [
+    "20260618.md",
+    "デジタル技術の変化.md",
+    "0615.md",
     "最終まとめ.md",
     "toyotaのデジタル.md",
     "孫正義.md",
